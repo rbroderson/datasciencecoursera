@@ -55,8 +55,8 @@ For each record it is provided:
 
 ##Description of the variables in the tiny_data.txt file
 * **Activity**
-	*Description*  Each type of activity that was monitored for the subjects.
-	*Values*
+  *Description*  Each type of activity that was monitored for the subjects.
+  *Values*
 		1 WALKING
 		2 WALKING_UPSTAIRS
 		3 WALKING_DOWNSTAIRS
@@ -130,8 +130,8 @@ For each record it is provided:
 * **fBodyBodyGyroJerkMag-mean()**
 * **fBodyBodyGyroJerkMag-std()**
 * **subject**
-	*Description*  The unique identifier of the subject monitored during the collection of data.
-	*Values* Integer value representing unique identity.
+  *Description*  The unique identifier of the subject monitored during the collection of data.
+  *Values* Integer value representing unique identity.
 
 The following excerpt is borred from features_info.txt which was provided by the originators of the data and used to describe the values for the variables measured during the experiement.
 
