@@ -13,6 +13,8 @@ This repo contains deliverables for the course project.
  * Set friendly activity labels
  * Calculate average of each variable for each activity and each subject
  * Write data to a file
+
 * **AveragedTidyData.txt**	Results of run_analysis.R where data is the final average of each variable for each activity and subject.
+
 * **CodeBook.md**		Description of variables, data and transformations used to clean up the source data.
 
